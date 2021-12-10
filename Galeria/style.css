@@ -1,23 +1,23 @@
-main{
+padre{
     margin: 2% auto;
     max-width: 100%;
     width: 1500px;
     padding: 0 10px;
 }
 
-main section{
+padre section{
     padding: 25px 15px;
     background-color: white;
     margin-bottom: 20px;
     border-radius: 4px;
 }
 
-main section div:first-child h1{
+padre section div:first-child h1{
     font-weight: 400;
     font-size: 30px;
 }
 
-main section div:last-child{
+padre section div:last-child{
     width: 100%;
     min-height: 200px;
     padding: 25px 5px;
@@ -29,7 +29,7 @@ main section div:last-child{
 
 }
 
-main section div:last-child img{
+padre section div:last-child img{
     object-fit: cover;
     padding: 10px;
     width: 100%;
